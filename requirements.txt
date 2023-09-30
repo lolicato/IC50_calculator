@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+scipy
+matplotlib
+mpl_toolkits
+ipython
+decimal
+
