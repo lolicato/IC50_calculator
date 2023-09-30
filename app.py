@@ -222,7 +222,7 @@ def main():
 
                     plt.legend(frameon=False, ncol=3, loc="upper left")
 
-                    plt.savefig("PDF/"+compounds[i]+".pdf", format="pdf", dpi=300, bbox_inches='tight')
+                    #plt.savefig("PDF/"+compounds[i]+".pdf", format="pdf", dpi=300, bbox_inches='tight')
                     
                     PDFNAME_LIST.append(compounds[i]+".pdf")
 
